@@ -142,7 +142,6 @@ main {
 }
 .summary button {
     background-color: var(--DarkGrayBlue);
-    color: var(--White);
     margin-top: 20px;
     margin-bottom: 20px;
     font-size: 18px;
@@ -150,6 +149,7 @@ main {
     border-radius: 20px;
     font-weight: 600;
     color: var(--PaleBlue);
+    border: 0px;
 }
 .summary button:hover {
     background: linear-gradient(hsl(252,100%,67%),hsl(241, 81%, 54%));
