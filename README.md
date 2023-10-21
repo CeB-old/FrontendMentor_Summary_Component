@@ -18,5 +18,5 @@ What I learned
 Now I need to check what i have done is good or not.
 Author
 
-    Frontend Mentor - @CeB-old
-    Twitter - @CeB_old_Dev
+- Frontend Mentor - [@CeB-old](https://www.frontendmentor.io/profile/CeB-old)
+- Twitter - [@CeB_old_Dev](https://twitter.com/CeB_old_Dev)
