@@ -129,6 +129,7 @@ main {
 }
 .score {
     color: hsl(224, 30%, 27%);
+    padding-right: 5px;
 }
 .summary p {
     color: hsla(224, 30%, 27%,0.5);
@@ -136,9 +137,6 @@ main {
 }
 .icon {
     padding-right: 10px;
-}
-.score {
-    padding-right: 8px;
 }
 .summary button {
     background-color: var(--DarkGrayBlue);
